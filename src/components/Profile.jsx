@@ -64,9 +64,8 @@ const Profile = () => {
     bio: 'Student | Linkedin CoachIn mentee | Quick Learner',
     edu: 'B.E Information Technology',
     clg: 'Vivekanand Education Society Institute of Technology',
-    cgpa: '8.2',
-    imgUrl:
-      'https://media.licdn.com/dms/image/D4D03AQEus0r388N3Bg/profile-displayphoto-shrink_800_800/0/1672978988977?e=1702512000&v=beta&t=VKRU5ABcUlaw6XiDAQ_Zan7TfQDc85SHXxGCMLc0ZTM',
+    cgpa: '8.39',
+    imgUrl: '/photo.jpg',
   };
 
   return (
