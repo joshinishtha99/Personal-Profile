@@ -10,9 +10,7 @@ export default function Header() {
                     <li>
                         <Link to="/">Profile</Link>
                     </li>
-                    <li>
-                        <Link to="/projects">Projects</Link>
-                    </li>
+                 
                     <li>
                         <Link to="/skills">Skills</Link>
                     </li>    
